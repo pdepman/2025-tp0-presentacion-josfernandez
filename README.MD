@@ -1,6 +1,6 @@
 # Presentación 
 
-    <img src="fotojose.jpg" alt="Foto" width="200" style="float: right; margin-left: 10px;">
+   <img src="fotojose.jpg" alt="Foto" width="200">
 
 **Nombre:** Jose Luis Fernandez	 
  
