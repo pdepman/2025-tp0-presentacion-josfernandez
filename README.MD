@@ -13,3 +13,6 @@ Soy estudiante de la materia Paradigmas de Programación.
 
 ## Ubicacion regional  
 Actualmente curso en Facultad Regional de Buenos Aires.  
+
+## Importante en el mundo en este momento 
+Actualmente seria aprobar paradigmas.  
