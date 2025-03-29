@@ -1,6 +1,6 @@
 # Presentación  
 
-![Foto](C:\Users\Jose\Documents\UTN\2025-tp0-presentacion-josfernandez\josefoto.jpg)  
+![Foto](C:\Users\Jose\Documents\UTN\2025-tp0-presentacion-josfernandez\fotojose.jpg)  
 
 **Nombre:** Jose Luis Fernandez	  
 **Legajo:** 147.432-7
