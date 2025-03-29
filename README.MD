@@ -1,9 +1,9 @@
 # Presentación  
 
-![Foto](C:\Users\Jose\Documents\UTN\2025-tp0-presentacion-josfernandez\fotojose.jpg)  
+![Foto](fotojose.jpg)  
 
 **Nombre:** Jose Luis Fernandez	  
-**Legajo:** 147.432-7
+**Legajo:** 1474327
 **Grupo:**  QUEYAAPROBO  
 
 ## Estimados 
