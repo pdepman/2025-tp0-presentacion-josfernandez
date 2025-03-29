@@ -1,9 +1,11 @@
 # Presentación  
 
-![Foto](fotojose.jpg)  
+<img src="fotojose.jpg" alt="Foto" width="200">
 
-**Nombre:** Jose Luis Fernandez	  
+**Nombre:** Jose Luis Fernandez	 
+ 
 **Legajo:** 1474327
+
 **Grupo:**  QUEYAAPROBO  
 
 ## Estimados 
